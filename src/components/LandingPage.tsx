@@ -213,7 +213,7 @@ export default function LandingPage({ onStart }: LandingPageProps) {
             </button>
 
             <a
-              href="https://buymeacoffee.com/"
+              href="https://buymeacoffee.com/findingmomo"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full border-2 border-black bg-white px-8 py-3.5 text-center text-sm font-bold text-black transition hover:bg-orange-400 hover:text-black"
